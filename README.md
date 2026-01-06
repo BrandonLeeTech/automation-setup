@@ -13,5 +13,5 @@ This repository contains a `Makefile` to automate the installation of Appium and
 
 ## Locked Versions
 - Appium: 3.1.2
-- XCUITest Driver: 7.24.1
-- UiAutomator2 Driver: 3.8.0
+- XCUITest Driver: 10.1.3
+- UiAutomator2 Driver: 5.0.7
